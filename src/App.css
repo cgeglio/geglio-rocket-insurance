@@ -1,0 +1,15 @@
+.App {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.ant-spin {
+  margin-top: 50px;
+}
+
+.quote-header {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}

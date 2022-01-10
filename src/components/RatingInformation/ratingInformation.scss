@@ -1,0 +1,26 @@
+.rating-information {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+  .ant-card {
+    min-width: 300px;
+    width: 60%;
+
+    .ant-form {
+      margin-top: 60px;
+
+      .ant-input-number {
+        display: block;
+      }
+
+      .ant-row {
+        margin-bottom: 10px;
+      }
+
+      .ant-btn {
+        margin-top: 20px;
+      }
+    }
+  }
+}
