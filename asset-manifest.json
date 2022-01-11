@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geglio-rocket-insurance/static/css/main.e1b56486.css",
+    "main.js": "/geglio-rocket-insurance/static/js/main.91f3ec22.js",
+    "static/js/787.3cbb62b8.chunk.js": "/geglio-rocket-insurance/static/js/787.3cbb62b8.chunk.js",
+    "index.html": "/geglio-rocket-insurance/index.html",
+    "main.e1b56486.css.map": "/geglio-rocket-insurance/static/css/main.e1b56486.css.map",
+    "main.91f3ec22.js.map": "/geglio-rocket-insurance/static/js/main.91f3ec22.js.map",
+    "787.3cbb62b8.chunk.js.map": "/geglio-rocket-insurance/static/js/787.3cbb62b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1b56486.css",
+    "static/js/main.91f3ec22.js"
+  ]
+}
